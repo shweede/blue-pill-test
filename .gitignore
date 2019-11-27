@@ -1,0 +1,6 @@
+STM32-base
+STM32-base-STM32Cube
+bin/*
+!bin/.keep
+obj/*
+!obj/.keep
